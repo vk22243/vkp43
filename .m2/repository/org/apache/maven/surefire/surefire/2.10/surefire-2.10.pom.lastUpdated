@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jul 20 05:56:12 UTC 2022
+default-http\://repo1.maven.org/maven2/.lastUpdated=1658296572589
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.apache.maven.surefire\:surefire\:pom\:2.10 from/to maven1 (http\://repo1.maven.org/maven2)\: Failed to transfer file\: http\://repo1.maven.org/maven2/org/apache/maven/surefire/surefire/2.10/surefire-2.10.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
+https\://repo.maven.apache.org/maven2/.lastUpdated=1658296572872
